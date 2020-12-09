@@ -54,6 +54,7 @@ caches statistics for your repositories. For more information, see issue
 # Installation
 
 <!-- TODO: Add details and screenshots -->
+<!-- HELLO THERE! -->
 
 1. Create a personal access token (not the default GitHub Actions token) using
    the instructions
